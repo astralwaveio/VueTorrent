@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.25.0](https://github.com/VueTorrent/VueTorrent/compare/v2.24.2...v2.25.0) (2025-05-12)
+
+
+### Features
+
+* Add confirmation dialogs ([#2253](https://github.com/VueTorrent/VueTorrent/issues/2253)) ([5803d0d](https://github.com/VueTorrent/VueTorrent/commit/5803d0dbe821efa187b30be480e712275f28329e))
+* **Navbar:** Add confirmation when starting/stopping all torrents ([#2267](https://github.com/VueTorrent/VueTorrent/issues/2267)) ([cde8378](https://github.com/VueTorrent/VueTorrent/commit/cde8378346e891f87e8481496838267e06e2009d))
+* **Navbar:** Add options to hide filters ([#2269](https://github.com/VueTorrent/VueTorrent/issues/2269)) ([20be5b8](https://github.com/VueTorrent/VueTorrent/commit/20be5b86e7d0a62108a99988a9bc7c4d5b2f4183))
+
 ## [2.24.2](https://github.com/VueTorrent/VueTorrent/compare/v2.24.1...v2.24.2) (2025-04-22)
 
 ### Bug Fixes
